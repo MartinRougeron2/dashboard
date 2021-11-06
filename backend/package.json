@@ -1,0 +1,11 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "simple widgets viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "me",
+  "license": "ISC"
+}
